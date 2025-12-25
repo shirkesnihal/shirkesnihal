@@ -38,9 +38,6 @@ Open `index.html` in a web browser and start managing your tasks.
 - Task priority & due dates
 - Dark mode
 
-## 👩‍💻 Author
-Snihal Shirke
-
 
 
 
