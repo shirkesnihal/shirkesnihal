@@ -3,14 +3,48 @@
 <!--
 **shirkesnihal/shirkesnihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌐 Socials:
+LinkedIn email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+Java HTML5 Python AWS MongoDB MySQL Canva NumPy Pandas
+
+# ✅ Task Tracker
+A simple and interactive **Task Tracker web application** built using **HTML, CSS, and JavaScript** to help users manage daily tasks efficiently.
+
+## 🚀 Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Clean and responsive UI
+- Real-time updates using JavaScript DOM manipulation
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## 📂 Project Structure
+Task-Tracker/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+## ▶️ Usage
+Open `index.html` in a web browser and start managing your tasks.
+
+## 🔮 Future Enhancements
+- Local storage support
+- Task priority & due dates
+- Dark mode
+
+## 👩‍💻 Author
+Snihal Shirke
+
+
+
+
+
+
+
